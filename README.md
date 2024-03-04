@@ -6,7 +6,7 @@
 
 > This project uses latest version of Next.js on Frontend and Django with latest version for backend.
 
-> FrontEnd: Next.js, Tailwind CSS
+> FrontEnd: Next.js, Tailwind CSS.
 > Backend: Django, sqlite
 
 ## Next.js Setup
@@ -54,5 +54,18 @@ py manage.py runserver
 http://127.0.0.1:8000/admin
 ```
 
-email: mikecreative0908@gmail.com
-Password: Alex12345~
+> email: mikecreative0908@gmail.com
+> Password: Alex12345~
+
+# Diagrams
+## High-Level Architecture Diagram:
+![image](https://github.com/fantasyknight/bulk-exchange-assignment/assets/95362611/b366a4c7-300d-49fa-99eb-ce35a9011ed0)
+
+## Backend Architecture Diagram
+![image](https://github.com/fantasyknight/bulk-exchange-assignment/assets/95362611/10fb1144-fc43-47e8-9707-dad5cd630ec2)
+
+## Frontend Architecture Diagram
+![image](https://github.com/fantasyknight/bulk-exchange-assignment/assets/95362611/1ca906ce-4b5b-4e0d-a9dc-cbad19d0ed74)
+
+https://lucid.app/lucidchart/7e855466-2f25-44ea-8c4c-aaa1a04151cf/edit?viewport_loc=785%2C-2237%2C2219%2C1087%2C0_0&invitationId=inv_2b328e4b-0a1b-4219-a62f-8e222fd6e319
+
